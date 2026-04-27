@@ -1,4 +1,6 @@
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhydrol.2024.132285-blue)](https://doi.org/10.1016/j.jhydrol.2024.132285)
+[![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-orange)](https://www.mathworks.com/products/matlab.html)
+[![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org)
 # Imnavait-GW-Inputs
 
 **Data and code for:**
@@ -95,7 +97,7 @@ simulation.m
 % To save outputs, uncomment the writematrix lines near the end of the script
 ```
 
-**Requires:** MATLAB Statistics Toolbox (`lognfit`, `wblrnd`, `lognrnd`)
+**Requires:** MATLAB Statistics and Machine Learning Toolbox (`lognfit`, `wblrnd`, `lognrnd`)
 
 ### Python — figures
 ```bash
