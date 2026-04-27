@@ -1,10 +1,9 @@
-# imnavait-gw-inputs
+[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhydrol.2024.132285-blue)](https://doi.org/10.1016/j.jhydrol.2024.132285)
+# Imnavait-GW-Inputs
 
 **Data and code for:**
 
 > Mukherjee, N., Chen, J., Neilson, B.T., Kling, G.W., and Cardenas, M.B. (2024). Water and carbon fluxes from a supra-permafrost aquifer to a stream across hydrologic states. *Journal of Hydrology*, 645, 132285. https://doi.org/10.1016/j.jhydrol.2024.132285
-
-[![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.jhydrol.2024.132285-blue)](https://doi.org/10.1016/j.jhydrol.2024.132285)
 
 A statistical ensemble groundwater flow model (8,466,850 realizations) using vertically-integrated Darcy's Law to quantify groundwater and dissolved organic carbon (DOC) fluxes from a supra-permafrost aquifer into Imnavait Creek, North Slope of Alaska.
 
